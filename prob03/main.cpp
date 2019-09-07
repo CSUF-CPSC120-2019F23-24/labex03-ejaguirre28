@@ -15,6 +15,7 @@ int main()
   feet= height / 12;
   inches = height % 12;
 
+  //Inputs persons height
   std::cout << "The person is " << feet << "'" << inches << "\"" << '\n';
 
   return 0;
